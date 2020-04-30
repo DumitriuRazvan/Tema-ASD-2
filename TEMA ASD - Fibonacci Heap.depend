@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1588174761 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema asd - fibonacci heap\main.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<malloc.h>
+	<cstring>
+
+1587903231 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema asd - fibonacci heap\main2.cpp
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<malloc.h>
+	<cstring>
+
